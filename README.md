@@ -1,5 +1,7 @@
-# CSE 100 Project 2
+Huffman Compression
+Overview
 
-__Checkpoint Deadline:__ 11:59 PM on Friday, February 8 (eligible for a slip day)
+Huffman compression is a widely used algorithm for lossless data compression. It works by assigning variable-length codes to input characters, with shorter codes assigned to more frequent characters. This allows for efficient encoding of data by replacing frequently occurring characters with shorter codes and less frequent characters with longer codes.
+Encoding Process
 
-__Final Deadline:__ 11:59 PM on Wednesday, February 20 (eligible for a slip day)
+It is currently the algorithm used for zipped files
